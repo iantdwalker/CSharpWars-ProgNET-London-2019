@@ -1,3 +1,5 @@
+CSharpWars Tutorial for ProgNET London September 2019. No longer actively being worked on.
+
 # CSharpWars
 
 ![CSharp Wars Logo](https://www.djohnnie.be/csharpwars/logo.png "CSharp Wars Logo")
